@@ -1,6 +1,7 @@
 # A-Basic-Mind
 BASIC language port of Linus Akesson's "A Mind Is Born", a 256-byte demo for the Commodore 64.
 https://www.linusakesson.net/scene/a-mind-is-born/index.php
+Per Mr. Akesson: "This work is distributed under a Creative Commons BY-NC-SA license. For commercial use, please get in touch."
 
 A brilliant piece of art in only 256 bytes!  I think it is amazing.  As Mr. Akesson tells us, "it was submitted to the Oldskool 4K Intro compo at Revision 2017, where it ended up on 1st place."
 
